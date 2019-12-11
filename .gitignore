@@ -1,0 +1,4 @@
+# pycharm
+.idea/*.xml
+.idea/*.iml
+.idea/*/*.xml
