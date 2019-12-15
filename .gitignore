@@ -3,6 +3,6 @@
 .idea/*.iml
 .idea/*/*.xml
 
-# dirs
+# dir
 /checkpoints
 !/checkpoints/download.sh
